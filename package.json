@@ -22,7 +22,8 @@
     "eject": "react-scripts eject",
     "start": "craco start",
     "build": "craco build",
-    "test": "craco test"
+    "test": "craco test",
+    "build:widget": "parcel build src/index.js --no-source-maps -d widget && cp build/static/css/*.css widget/index.css"
   },
   "eslintConfig": {
     "extends": [
@@ -41,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
   }
 }

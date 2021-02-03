@@ -1,3 +1,4 @@
+import React from 'react';
 import StockQuote from "./components/StockQuote";
 
 function App(props) {
