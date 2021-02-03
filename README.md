@@ -2,7 +2,9 @@
 
 This is a widget used for displaying a stock symbol, name, price and intraday variation in an embeddable div.
 
---add a screenshot here--
+Here is an example of the 3 widget items in the same page :
+
+![Image of Finance Widget](https://github.com/nicoraynaud/react-widget/blob/master/sample.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
