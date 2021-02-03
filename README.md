@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project is a demo aiming at showing how one can build an embeddable React widget from a React App.
 
-The full blog post explaining how it works is available at []
+The full blog post explaining how it works is available [here](https://tekinico.medium.com/build-a-react-embeddable-widget-c46b7f7999d8).
 
 ## How to use
 
